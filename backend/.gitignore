@@ -1,0 +1,5 @@
+# Distribution / packaging
+node_modules/
+
+# Others
+*.[jJ][pP][gG]
